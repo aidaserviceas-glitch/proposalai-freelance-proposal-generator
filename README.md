@@ -25,10 +25,14 @@ freelance proposal generator, ai proposal writer, project proposal template, fre
 
 Cloudflare Workers + KV + Pages · Claude AI · Stripe · Brevo
 
-## Related tools (BaseAI)
+## Other BaseAI Tools
 
+- [ReviewReply](https://reviewreply.pages.dev) — AI replies to Google/TripAdvisor/Airbnb reviews
+- [HostAI](https://hostai.pages.dev) — Airbnb/STR listing optimizer
 - [ContentBase](https://contentbase-crw.pages.dev) — Etsy/Shopify listing optimizer
-- [ReviewReply](https://reviewreply.pages.dev) — AI review responses for restaurants
-- [HostAI](https://hostai.pages.dev) — Airbnb listing optimizer
+- [ProposalAI](https://proposalai-app.pages.dev) — Freelance proposal generator
+- [JobPostAI](https://jobpostai-app.pages.dev) — Job posting writer
+- [InvoiceChaser](https://invoicechaser-app.pages.dev) — Invoice payment reminder generator
+- [RepurposeAI](https://repurposeai-v2.pages.dev) — Turn one piece of content into 10
 
-Built by [BaseAI Tools](https://baseaitools.com)
+All free to start, no signup. Full suite at [baseaitools.com](https://baseaitools.com).
